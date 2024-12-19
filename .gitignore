@@ -1,1 +1,11 @@
+# Escludi l'ambiente virtuale
 venv/
+
+# Escludi altri file o cartelle inutili (facoltativo)
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Configurazioni dell'editor (facoltativo)
+.vscode/
