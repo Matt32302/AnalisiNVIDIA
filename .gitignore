@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+openai-chatgpt-latest.vsix
 
 # Configurazioni dell'editor (facoltativo)
 .vscode/
