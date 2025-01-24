@@ -1,5 +1,5 @@
 # Escludi l'ambiente virtuale
-venv/
+.venv/
 
 # Escludi altri file o cartelle inutili (facoltativo)
 __pycache__/
